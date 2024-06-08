@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./Screenshot_2.jpg)
+![screenshot](./Screenshot_2.png)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://antmortra.github.io/list_Odin/)
+[Live Demo Link](http://127.0.0.1:5500/)
 
 
 ## Getting Started
@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Diegoneitorex/Tribute-Page/issues).
 
 ## Show your support
 
